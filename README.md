@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF704&background=36094B64&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Software+Engineering+Student;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 ## Hi there 👋
@@ -23,3 +25,4 @@ I’m dacbas
 18 years old. I write code that works, mostly. I'd like to make good software because I got tired of seeing bad software.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,react,tailwind,python,java)](https://skillicons.dev)
+</div>
