@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF704&background=36094B64&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Software+Engineering+Student;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m dacbas
+
+// about
+18 years old. I write code that works, mostly. I'd like to make good software because I got tired of seeing bad software.
