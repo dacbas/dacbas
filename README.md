@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 -->
 
 I’m dacbas
-
-// about
 18 years old. I write code that works, mostly. I'd like to make good software because I got tired of seeing bad software.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,react,tailwind,python,java)](https://skillicons.dev)
